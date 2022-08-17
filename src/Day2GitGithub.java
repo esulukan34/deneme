@@ -12,9 +12,11 @@ public class Day2GitGithub {
                     git remote add origin adres
                     git push -u origin master
      Not : Yukaridaki iki komutu tek seferde kullandiktan sonra ikinci commit'lerim sadece
-     git push kullaniriz
+     git push kullaniriz.
+     
      */
     public static void main(String[] args) {
         System.out.println("Github'i ogrendim");
+        System.out.println("pull yap");
     }
 }
